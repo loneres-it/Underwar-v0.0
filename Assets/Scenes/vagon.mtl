@@ -1,0 +1,30 @@
+newmtl prop_m_vagon
+Ka  0 0 0
+Kd  1 1 1
+Ks  0 0 0
+map_Kd T:\\prop\\prop_m_vagon.tga
+
+newmtl prop_m_vagon
+Ka  0 0 0
+Kd  1 1 1
+Ks  0 0 0
+map_Kd T:\\prop\\prop_m_vagon.tga
+
+newmtl wood_plank6
+Ka  0 0 0
+Kd  1 1 1
+Ks  0 0 0
+map_Kd T:\\wood\\wood_plank6.tga
+
+newmtl crete_beton_4
+Ka  0 0 0
+Kd  1 1 1
+Ks  0 0 0
+map_Kd T:\\crete\\crete_beton_4.tga
+
+newmtl mtl_barrel_big
+Ka  0 0 0
+Kd  1 1 1
+Ks  0 0 0
+map_Kd T:\\mtl\\mtl_barrel_big.tga
+
